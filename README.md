@@ -1,4 +1,5 @@
-#Image Caption Generation Model
+# Image Caption Generation Model
+
 </br>
 Used pretrained InceptionV3 and VGG models for Image Embeddings.
 Used Glove for Word Embeddings. Experimented with LSTM and GRU for sentence sequence generation.
