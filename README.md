@@ -1,5 +1,5 @@
-#Image Captioning Model
-
+#Image Caption Generation Model
+</br>
 Used pretrained InceptionV3 and VGG models for Image Embeddings.
 Used Glove for Word Embeddings. Experimented with LSTM and GRU for sentence sequence generation.
 
@@ -17,3 +17,8 @@ Used Glove for Word Embeddings. Experimented with LSTM and GRU for sentence sequ
 <td><img src = '/examples/ex3.png'>
 </tr>
 </table>
+
+References:</br>
+https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+https://arxiv.org/pdf/1412.2306.pdf
+https://arxiv.org/pdf/1505.04870.pdf
